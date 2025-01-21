@@ -3,8 +3,8 @@
     <h2></h2>  
     <p><b>커뮤니티형 중고차 거래 애플리케이션 서비스, 타볼카</b></p>
     <h4>
-        <a href='https://www.notion.so/17051e97344680f2975ed9a9b57f5dcb'>📒 기능 명세서 |
-            <a href=''>📀 ERD |
+      <a href='https://www.notion.so/17051e97344680f2975ed9a9b57f5dcb'>📒 기능 명세서 |
+      <a href='https://www.erdcloud.com/d/7jx2gtnhNmEoXaPao'>📀 ERD |
       <a href='https://www.figma.com/design/ckY510YXPKJJUoURVxlmYz/Cam'on?node-id=0-1&node-type=canvas&t=BIq7ck3oUBLHea8J-0'>🎨 Figma</a>
     </h4>
     <h3>
