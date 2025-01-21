@@ -14,6 +14,7 @@
 # 🖼️ 프로젝트 기획 배경
 
 <br>
+https://velog.io/@jojeon4515/%EC%84%9C%EB%A1%9C-%EB%8B%A4%EB%A5%B8-%EB%8F%84%EB%A9%94%EC%9D%B8%EC%97%90%EC%84%9C-%EC%BF%A0%ED%82%A4-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-React-Express
 
 # 🎯 핵심 기능
 
