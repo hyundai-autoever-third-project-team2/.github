@@ -27,11 +27,16 @@
 - 최초 로그인 시, 설문조사를 통해 차량을 추천 기능을 제공합니다.
 - 일주일마다 전체 사용자 중 활동이 누적된 사용자의 추천 차량 리스트를 갱신합니다.
 
+![image](https://github.com/user-attachments/assets/62a39572-7cc0-4a4a-9fa6-615ca9179444)
+
 ### ✅ 차량 등록 및 관리
 
 - 유효한 차량 번호를 입력 받은 후 자동으로 차량 정보를 불러옵니다.
 - 차량의 외부/내부 사진들과 부가 설명을 입력 받고 판매할 차량을 등록할 수 있습니다.
 - 차량 등록 후, 관리자의 시세 측정이 끝나면 사용자는 판매 취소/승인 여부를 결정할 수 있습니다.
+
+![image](https://github.com/user-attachments/assets/94099577-de41-4c4d-b63c-23c6b4b16e39)
+
 
 ### ✅ 차량 조회
 
@@ -40,10 +45,14 @@
 - 차량의 색상, 연식, 주행 거리, 가격을 설정하여 차량을 조회할 수 있습니다.
 - 정해진 주기마다 판매가 되지 않은 차량의 가격 할인을 진행합니다.
 
+![image](https://github.com/user-attachments/assets/924d4596-8b59-4c01-85d2-6aafe3e7d446)
+
 ### ✅ 커뮤니티
 
 - 피드(스토리)를 작성할 수 있고 삭제할 수 있습니다.
 - 다른 사용자들의 피드를 볼 수 있고, 좋아요 및 좋아요 취소를 누를 수 있습니다.
+
+![image](https://github.com/user-attachments/assets/0895ae9b-ced8-443e-b200-842929da7186)
 
 ### ✅ 편의 기능
 
@@ -52,11 +61,17 @@
 - 구매하고자 하는 차량이 존재하는 지점을 확인할 수 있습니다.
 - 방문 예약을 접수할 수 있습니다.
 
+![image](https://github.com/user-attachments/assets/c6d59638-8ca0-4f34-9284-5d5ccada4c98)
+
 ### ✅ 관리자
 
 - 회원과 1:1 상담 기능을 제공합니다.
 - 회원의 리스트를 조회하고 회원 정보를 조회할 수 있습니다.
 - 회원이 등록한 차량의 심사와 판매할 매물을 등록할 수 있습니다.
+
+![image](https://github.com/user-attachments/assets/51e858d5-9b03-4339-88a7-178debb16698)
+![image](https://github.com/user-attachments/assets/8620bef7-db35-42c1-96f9-55b80433ff4c)
+![image](https://github.com/user-attachments/assets/e72184ee-49a6-4fae-8c54-a0bf3eec5ae1)
 
 <br>
 
