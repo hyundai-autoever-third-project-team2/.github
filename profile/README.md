@@ -106,8 +106,15 @@
 <br>
 
 # 👨‍👩‍👧‍👦 팀원 소개
-| 김홍빈 | 송지웅 | 전우정 | 오은솔 | 오인우 | 장준혁 |
-| :--: | :--: | :--: | :--: | :--: | :--: |
-| <img src="https://github.com/vinivin153.png" width="150" height="150"> | <img src="https://github.com/moaangel.png" width="150" height="150"> | <img src="https://github.com/friend5hip.png" width="150" height="150"> | <img src="https://github.com/OHEUNSOL.png" width="150" height="150"> | <img src="https://github.com/inwoo0808.png" width="150" height="150"> | <img src="https://github.com/itcuna0617.png" width="150" height="150"> |
-| [@vinvin153](https://github.com/vinivin153) | [@moaangel](https://github.com/moaangel) | [@friend5hip](https://github.com/friend5hip) | [@eunsol037](https://github.com/OHEUNSOL) | [@inwoo0808](https://github.com/inwoo0808) | [@itcuna0617](https://github.com/itcuna0617) |
-| FE | FE | FE | BE | BE | BE |
+| 김홍빈 | 송지웅 | 전우정 |
+| :--: | :--: | :--: |
+| <img src="https://github.com/vinivin153.png" width="150" height="150"> | <img src="https://github.com/moaangel.png" width="150" height="150"> | <img src="https://github.com/friend5hip.png" width="150" height="150"> |
+| [@vinvin153](https://github.com/vinivin153) | [@moaangel](https://github.com/moaangel) | [@friend5hip](https://github.com/friend5hip) |
+| FE | FE | FE |
+
+| 오은솔 | 오인우 | 장준혁 |
+| :--: | :--: | :--: |
+| <img src="https://github.com/OHEUNSOL.png" width="150" height="150"> | <img src="https://github.com/inwoo0808.png" width="150" height="150"> | <img src="https://github.com/itcuna0617.png" width="150" height="150"> |
+| [@eunsol037](https://github.com/OHEUNSOL) | [@inwoo0808](https://github.com/inwoo0808) | [@itcuna0617](https://github.com/itcuna0617) |
+| BE | BE | BE |
+
