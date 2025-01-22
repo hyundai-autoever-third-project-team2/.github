@@ -3,9 +3,10 @@
     <h2></h2>  
     <img src='https://github.com/user-attachments/assets/fe53c33a-642e-4751-9540-dd7f85a5ac8b'></img>
     <h4>
-      <a href='https://www.notion.so/17051e97344680f2975ed9a9b57f5dcb'>📒 기능 명세서 |
-      <a href='https://www.erdcloud.com/d/7jx2gtnhNmEoXaPao'>📀 ERD |
-      <a href='https://www.figma.com/design/A5ypBuMuWUJxDyHjDmD818/%ED%98%84%EB%8C%80%EC%98%A4%ED%86%A0%EC%97%90%EB%B2%84-%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0-sw%EC%8A%A4%EC%BF%A8-%EC%9B%B9%EC%95%B1-1%EA%B8%B0(2%EC%A1%B0)?node-id=0-1&p=f&t=bv5HDpAnYvtl0q4Q-0'>🎨 Figma</a>
+      <a href='https://www.notion.so/17051e97344680f2975ed9a9b57f5dcb'>📒 기능 명세서</a> |
+      <a href='https://www.erdcloud.com/d/7jx2gtnhNmEoXaPao'>📀 ERD</a> |
+      <a href='https://www.figma.com/design/A5ypBuMuWUJxDyHjDmD818/%ED%98%84%EB%8C%80%EC%98%A4%ED%86%A0%EC%97%90%EB%B2%84-%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0-sw%EC%8A%A4%EC%BF%A8-%EC%9B%B9%EC%95%B1-1%EA%B8%B0(2%EC%A1%B0)?node-id=0-1&p=f&t=bv5HDpAnYvtl0q4Q-0'>🎨 Figma</a> |
+      <a href='https://www.youtube.com/watch?v=dLsuDvRoZZo&ab_channel=friend5hip'>🎥 시연 영상
     </h4>
     <h3>
     </h3>
