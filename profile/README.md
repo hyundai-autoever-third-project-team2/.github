@@ -1,7 +1,7 @@
 <div align="center">
     <a href='https://autoever.site'><img src="https://github.com/user-attachments/assets/a8bb22af-d53a-4c84-b575-ad634fc8429d">
     <h2></h2>  
-    <p><b>커뮤니티형 중고차 거래 애플리케이션 서비스, 타볼카</b></p>
+    <img src='https://github.com/user-attachments/assets/fe53c33a-642e-4751-9540-dd7f85a5ac8b'></img>
     <h4>
       <a href='https://www.notion.so/17051e97344680f2975ed9a9b57f5dcb'>📒 기능 명세서 |
       <a href='https://www.erdcloud.com/d/7jx2gtnhNmEoXaPao'>📀 ERD |
